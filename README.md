@@ -1,6 +1,6 @@
 # A space to share what I learn in machine learning
 
-Objective: Codes are shared to study concepts and algorithms in machine learning
+Objective: codes are shared to study concepts and algorithms in machine learning
 
 ## Topics (ordered alphabetically)
 
