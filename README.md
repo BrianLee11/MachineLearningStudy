@@ -1,4 +1,4 @@
-# MachineLearningStudy
+# A space to share what I learn in machine learning
 
 Objective: Codes are shared to study machine learning concepts and algorithms
 
